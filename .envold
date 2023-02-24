@@ -1,0 +1,7 @@
+PORT=3005
+
+HOST=localhost
+USER=root
+PASSWORD=
+DATABASE=youtube
+D_PORT=3306
